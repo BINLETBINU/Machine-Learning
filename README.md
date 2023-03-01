@@ -1,3 +1,3 @@
 # Machine-Learning
 
-The satart of a new Beginning.
+The start of a new Beginning.
